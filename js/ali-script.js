@@ -1,0 +1,1 @@
+var ajaxurl="/wp-admin/admin-ajax.php";site._lang ="fr";(function($){$(document).ready(function(e) { console.log("dyn_script init");site.load("https://dominickgiguere.com/wp-content/themes/aliquando-2k17");ali.webcounters.load(window.location.host,"");});})(jQuery);
